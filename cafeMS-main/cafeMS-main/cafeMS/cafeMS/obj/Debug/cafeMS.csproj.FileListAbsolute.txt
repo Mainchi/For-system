@@ -1,0 +1,90 @@
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.csprojResolveAssemblyReference.cache
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.AddItem.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.MainForm.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.Cache
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.exe.config
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.exe
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.pdb
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.exe
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.pdb
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.AdminSection.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.LoginForm.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterUser.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterAdmin.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.Fpass.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.NewPass.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.AddItem.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.AdminSection.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.Fpass.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.historyform.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.itemform.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.LoginForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.NewPass.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterAdmin.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterUser.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.exe
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.exe
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.admins.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.users.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.csprojResolveAssemblyReference.cache
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.AddItem.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.admins.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.AdminSection.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.Fpass.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.historyform.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.itemform.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.LoginForm.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.MainForm.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.NewPass.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterAdmin.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterUser.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.users.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.Cache
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.exe
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.exe.config
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.exe
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.pdb
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.exe
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.pdb
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.AddItem.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.admins.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.AdminSection.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.Fpass.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.historyform.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.itemform.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.LoginForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.NewPass.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterAdmin.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterUser.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.users.resources
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.exe
+C:\Users\user\Documents\SharpDevelop Projects\For-system-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.pdb
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.exe.config
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.exe
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\bin\Debug\cafeMS.pdb
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.AddItem.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.admins.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.AdminSection.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.Fpass.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.historyform.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.itemform.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.LoginForm.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.MainForm.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.NewPass.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterAdmin.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterUser.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.users.resources
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.Cache
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.exe
+C:\Users\Ralph\Desktop\cafeMS-main\cafeMS-main\cafeMS\cafeMS\obj\Debug\cafeMS.pdb
